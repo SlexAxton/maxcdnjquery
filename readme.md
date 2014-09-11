@@ -1,3 +1,3 @@
-# Alex's jQuery MaxCDN Hackathon
+# Alex's and Vlad's jQuery MaxCDN Hackathon
 
 \o/
