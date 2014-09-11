@@ -1,0 +1,24 @@
+{
+  "name": "maxcdnjquery",
+  "version": "0.0.0",
+  "description": "My entry for the jQuery MaxCDN Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SlexAxton/maxcdnjquery.git"
+  },
+  "author": "Alex Sexton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlexAxton/maxcdnjquery/issues"
+  },
+  "homepage": "https://github.com/SlexAxton/maxcdnjquery",
+  "dependencies": {
+    "jquery": "^2.1.1",
+    "normalize.css": "^3.0.1",
+    "requirejs": "^2.1.15"
+  }
+}
